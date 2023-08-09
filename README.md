@@ -2,7 +2,7 @@
 
 I will be using this account to document the projects I have been using to learn how to code
 
-So far I am learning Python and JavaScript, using these languages to make small minigames
+I have experience with Python and Javascript and am now looking at C++.
 
 <details>
   <summary>Finished Projects</summary>
@@ -19,3 +19,5 @@ So far I am learning Python and JavaScript, using these languages to make small 
   [Dice Games](https://github.com/hickmana97/Dice-game) - Repo containing framework for dice mechanics and also the beginnings of the game of Yahtzee
   
 </details>
+
+[Link](https://github.com/hickmana97/Cpp-mini-collection) to a collection of C++ programs I've made whilst learning how to use it.
